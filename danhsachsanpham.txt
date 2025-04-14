@@ -1,0 +1,8 @@
+1|Điện thoại iPhone 13|Điện thoại|25000000|10|Image/anh1.jpg
+2|Laptop Dell XPS 15|Máy tính xách tay|30000000|5|Image/anh2.jpg
+3|Máy ảnh Sony A7|Máy ảnh|18000000|7|Image/anh3.jpg
+4|TV Samsung 4K 55 inch|Thiết bị gia đình|15000000|3|Image/anh4.jpg
+5|Máy tính bảng iPad Pro 12.9|Máy tính bảng|22000000|8|Image/anh5.jpg
+6|Tai nghe Sony WH-1000XM4|Thiết bị âm thanh|7000000|15|Image/anh6.jpg
+7|Đồng hồ thông minh Apple Watch Series 6|Phụ kiện|10000000|10|Image/anh7.jpg
+8|Loa JBL Charge 4|Thiết bị âm thanh|3000000|20|Image/anh8.jpg
